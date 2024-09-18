@@ -1,6 +1,6 @@
 # **Règlement officiel** :
 
-% hint style="success" %} Le règlement est considéré comme lu et approuvé à partir de la première connexion du joueur. Toute mise à jour du règlement sera considérée comme lue et approuvée, immédiatement dès son application. {% endhint %}
+{% hint style="success" %} Le règlement est considéré comme lu et approuvé à partir de la première connexion du joueur. Toute mise à jour du règlement sera considérée comme lue et approuvée, immédiatement dès son application. {% endhint %}
 
 {% hint style="info" %} Les règles suivantes sont applicables sur l'ensemble des supports de Rinaorc (serveur Minecraft, Teamspeak, Discord, Forum, etc...). {% endhint %}
 
